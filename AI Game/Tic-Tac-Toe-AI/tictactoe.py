@@ -1,8 +1,9 @@
 from tkinter import (
     messagebox,
 )  # provides a different set of dialogues that are used to display message boxes
+from tkinter import messagebox
 import customtkinter as ctk
-import customtkinter as messagebox
+
 
 
 def check_winner(board, player):
